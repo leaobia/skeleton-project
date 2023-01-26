@@ -144,6 +144,14 @@ background: #19191C;}
   
 }
 
+.label-body{
+  padding-top: 10px;
+  color: #ffff;
+}
+
+h1:hover {
+  text-shadow: 0 0 10px #1EAEDB, 0 0 10px #1EAEDB;
+}
 
 
 /* Typography
